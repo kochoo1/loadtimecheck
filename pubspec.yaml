@@ -1,0 +1,6 @@
+name: dart_exercises
+description: A Dart exercise that measures load time.
+version: 1.0.0
+
+environment:
+  sdk: '^3.12.0'

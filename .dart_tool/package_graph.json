@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "dart_exercises"
+  ],
+  "packages": [
+    {
+      "name": "dart_exercises",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
